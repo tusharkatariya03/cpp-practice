@@ -1,3 +1,3 @@
 #include <iostream>
 
-int main() { std::cout << "fuck cvcu\n"; }
+int main() { std::cout << "fuck ccfgxfu\n"; }
